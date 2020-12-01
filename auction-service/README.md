@@ -1,10 +1,10 @@
 # Auctions App: Auctions Service
 
 Service to manage auctions:
-* CRUD actions (http event functions
-* Bid at an auction (http event function)
-* Upload picture to S3 (http event function)
-* Process ended auction (schedule rate 1min event function)
+* CRUD actions `http event functions`
+* Bid at an auction `http event function`
+* Upload picture to S3 `http event function`
+* Process ended auction `schedule rate 1min event function`
 
 ## Requirement
 
